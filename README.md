@@ -2,17 +2,27 @@
 ---
 头像
 <p>
-![https://github.com/popor/image/blob/master/avator/avator1.jpg](https://github.com/popor/image/blob/master/avator/avator1.jpg)
-![https://github.com/popor/image/blob/master/avator/avator2.jpg](https://github.com/popor/image/blob/master/avator/avator2.jpg)
-![https://github.com/popor/image/blob/master/avator/avator3.jpg](https://github.com/popor/image/blob/master/avator/avator3.jpg)
-![https://github.com/popor/image/blob/master/avator/avator4.jpg](https://github.com/popor/image/blob/master/avator/avator4.jpg)
-![https://github.com/popor/image/blob/master/avator/avator5.jpg](https://github.com/popor/image/blob/master/avator/avator5.jpg)
+<img src="https://github.com/popor/image/blob/master/avator/avator1.jpg" width="40%" height="40%"> https://github.com/popor/image/blob/master/avator/avator1.jpg 
+</p>
 
+<p>
+<img src="https://github.com/popor/image/blob/master/avator/avator1.jpg" width="40%" height="40%"> https://github.com/popor/image/blob/master/avator/avator1.jpg 
+</p>
+
+<p>
+<img src="https://github.com/popor/image/blob/master/avator/avator1.jpg" width="40%" height="40%"> https://github.com/popor/image/blob/master/avator/avator1.jpg 
+</p>
+
+<p>
+<img src="https://github.com/popor/image/blob/master/avator/avator1.jpg" width="40%" height="40%"> https://github.com/popor/image/blob/master/avator/avator1.jpg 
+</p>
+
+<p>
+<img src="https://github.com/popor/image/blob/master/avator/avator1.jpg" width="40%" height="40%"> https://github.com/popor/image/blob/master/avator/avator1.jpg 
 </p>
 
 ---
 银行
 <p>
-![https://github.com/popor/image/blob/master/bank/ZhaoShang.png](https://github.com/popor/image/blob/master/bank/ZhaoShang.png)
-
+<img src="https://github.com/popor/image/blob/master/bank/ZhaoShang.png" width="40%" height="40%"> https://github.com/popor/image/blob/master/bank/ZhaoShang.png 
 </p>
