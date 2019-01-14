@@ -1,6 +1,6 @@
 
 ---
-头像
+##头像
 <p>
 <img src="https://github.com/popor/image/blob/master/avator/avator1.jpg" width="10%" height="10%"> 
 <img src="https://github.com/popor/image/blob/master/avator/avator2.jpg" width="10%" height="10%"> 
@@ -19,8 +19,10 @@ https://github.com/popor/image/blob/master/avator/avator5.jpg
 ```
 
 ---
-银行
+##银行
+<p>
 <img src="https://github.com/popor/image/blob/master/bank/ZhaoShang.png" width="10%" height="10%"> </img>
+</p>
 
 ```
 https://github.com/popor/image/blob/master/bank/ZhaoShang.png
